@@ -194,7 +194,7 @@ nav ul li.has-child.active > a::before{
 h1{
 	font-size:2rem;
 	text-align: center;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	padding: 20px;
 }
 
