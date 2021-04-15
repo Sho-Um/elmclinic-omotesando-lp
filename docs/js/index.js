@@ -79,3 +79,5 @@ $(window).on('load', function(){
 		$(Box).slideDown(500);					//アコーディオンを開く
 	});
 });
+
+AOS.init();
